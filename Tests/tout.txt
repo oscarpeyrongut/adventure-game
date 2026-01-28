@@ -1,0 +1,38 @@
+ramasser short
+aller ouest
+aller est
+aller est
+ramasser chaussures
+aller ouest
+lâcher chaussures
+aller sud
+aller sud
+aller nord
+aller est
+aller ouest
+aller nord
+aller nord
+aller sortie
+aller est
+inventaire
+ramasser cookie
+manger cookie
+inventaire
+aller sud
+aller mairie
+aller accueil
+aller entrée
+aller 1er-étage
+aller rez-de-chaussée
+aller sortie
+aller sud
+aller nord
+aller est
+aller nord
+aller est
+aller ouest
+aller nord
+regarder
+reculer
+aide
+quitter
